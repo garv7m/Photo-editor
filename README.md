@@ -5,8 +5,8 @@ Supports all image formats,
 no need of cloud storage
 
 Used:
-H,TML5
+HTML5,
 Javascript,
 CSS3
 
-Check it out here: 
+Check it out here: https://garv7m.github.io/Photo-editor/ 
